@@ -1,6 +1,7 @@
 ﻿@page
 @model Mission7.Pages.BuyModel
 @{
+    ViewData["Title"] = "Cart";
 }
 
 <h2>Your Basket</h2>
@@ -15,8 +16,8 @@
         </tr>
     </thead>
     <tbody>
-        @foreach(var i in Model.basket.Items)
-            {
+        @foreach (var i in Model.basket.Items)
+        {
         <tr>
             <td>@i.Book.Title</td>
             <td>@i.Quantity</td>
