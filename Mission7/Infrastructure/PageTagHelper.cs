@@ -31,6 +31,7 @@ namespace Mission7.Infrastructure
         public string PageClassNormal { get; set; }
         public string PageClassSelected { get; set; }
         public string PageAction { get; set; }
+
         public override void Process(TagHelperContext context, TagHelperOutput output)
         {
             IUrlHelper uh = uhf.GetUrlHelper(vc);
