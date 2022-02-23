@@ -152,3 +152,9 @@ C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Mission7.
 C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Mission7.dll
 C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Mission7.pdb
 C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Mission7.genruntimeconfig.cache
+C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Views\Shared\BookSummary.cshtml.g.cs
+C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\Category\Default.cshtml.g.cs
+C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Pages\Buy.cshtml.g.cs
+C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
+C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
+C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
