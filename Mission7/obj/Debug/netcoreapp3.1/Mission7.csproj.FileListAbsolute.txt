@@ -158,3 +158,6 @@ C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Pag
 C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Pages\_Layout.cshtml.g.cs
 C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewImports.cshtml.g.cs
 C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Pages\_ViewStart.cshtml.g.cs
+C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Views\Checkout\Checkout.cshtml.g.cs
+C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Pages\CheckoutComplete.cshtml.g.cs
+C:\Users\coles\Desktop\is403\Mission7\Mission7\obj\Debug\netcoreapp3.1\Razor\Views\Shared\Components\CartSummary\Default.cshtml.g.cs
